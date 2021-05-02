@@ -1,4 +1,4 @@
-RambleSpace
+#RambleSpace
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg 'License Badge')
 
@@ -14,7 +14,7 @@ RambleSpace
 
 ## Description:
 
-I wanted to learn React and the best way for me to learn is through doing. So, out of my learning comes RambleSpace. RambleSpace is a app that is mobile friendly as well as desktop friendly. It has the ability to view "rambles" (posts) full authentication to add and login users, like and unlike items, notifications as well as set up a profile for the user to change his/her picture, update bio, city and website.
+Welcome to RambleSpace, my take on a social media app that resembles Twitter. I wanted to learn React and the best way for me to learn is through doing. So, out of my learning comes RambleSpace. RambleSpace is a app that is mobile friendly as well as desktop friendly. It has the ability to view "rambles" (posts) full authentication to add and login users, like and unlike items, notifications as well as set up a profile for the user to change his/her picture, update bio, city and website.
 
 ## Dependencies:
 
