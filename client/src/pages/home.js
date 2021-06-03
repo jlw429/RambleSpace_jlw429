@@ -16,7 +16,6 @@ class home extends Component {
 
   render() {
     const { rambles, loading } = this.props.data;
-    console.log(this.props.data);
     let recentRamblesMarkup = !loading ? (
       rambles.map((ramble) => (
         <Rambles openDialog={false} key={ramble.rambleId} rambles={ramble} />

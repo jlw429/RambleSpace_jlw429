@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import withStyles from '@material-ui/core/styles/withStyles';
 import PropTypes from 'prop-types';
 import AppIcon from '../images/favicon.ico';
@@ -16,10 +16,6 @@ import CircularProgress from '@material-ui/core/CircularProgress';
 //Redux
 import { connect } from 'react-redux';
 import { signupUser } from '../redux/actions/userActions';
-
-const styles = (theme) => ({
-  ...theme.spread,
-});
 
 class signup extends Component {
   constructor() {
